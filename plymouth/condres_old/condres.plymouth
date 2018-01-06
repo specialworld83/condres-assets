@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Condres theme
+Description=Condres theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/condres
+ScriptFile=/usr/share/plymouth/themes/condres/condres.script
